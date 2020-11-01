@@ -1,0 +1,14 @@
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\bin\Release\DragAndDropControls.exe.config
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\bin\Release\DragAndDropControls.exe
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\bin\Release\DragAndDropControls.pdb
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\GeeksGameFinal.csprojAssemblyReference.cache
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\MainWindow.baml
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\MainWindow.g.cs
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\App.g.cs
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\DragAndDropControls_MarkupCompile.cache
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\DragAndDropControls.g.resources
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\DragAndDropApp.Properties.Resources.resources
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\GeeksGameFinal.csproj.GenerateResource.cache
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\GeeksGameFinal.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\DragAndDropControls.exe
+C:\Users\muhammad.ziada\source\repos\GeeksGameFinal\obj\x86\Release\DragAndDropControls.pdb

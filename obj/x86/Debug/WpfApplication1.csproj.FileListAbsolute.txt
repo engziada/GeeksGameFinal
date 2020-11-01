@@ -1,0 +1,25 @@
+E:\Working area\Drag and drop Controls\bin\Debug\DragAndDropControls.exe
+E:\Working area\Drag and drop Controls\bin\Debug\DragAndDropControls.pdb
+E:\Working area\Drag and drop Controls\obj\x86\Debug\MainWindow.baml
+E:\Working area\Drag and drop Controls\obj\x86\Debug\MainWindow.g.cs
+E:\Working area\Drag and drop Controls\obj\x86\Debug\App.g.cs
+E:\Working area\Drag and drop Controls\obj\x86\Debug\DragAndDropControls_MarkupCompile.cache
+E:\Working area\Drag and drop Controls\obj\x86\Debug\DragAndDropControls.g.resources
+E:\Working area\Drag and drop Controls\obj\x86\Debug\DragAndDropApp.Properties.Resources.resources
+E:\Working area\Drag and drop Controls\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.Cache
+E:\Working area\Drag and drop Controls\obj\x86\Debug\DragAndDropControls.exe
+E:\Working area\Drag and drop Controls\obj\x86\Debug\DragAndDropControls.pdb
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\bin\Debug\DragAndDropControls.exe
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\bin\Debug\DragAndDropControls.pdb
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\WpfApplication1.csprojAssemblyReference.cache
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\MainWindow.baml
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\MainWindow.g.cs
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\App.g.cs
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\DragAndDropControls_MarkupCompile.cache
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\DragAndDropControls.g.resources
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\DragAndDropApp.Properties.Resources.resources
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\WpfApplication1.csproj.GenerateResource.cache
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\WpfApplication1.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\DragAndDropControls.exe
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\obj\x86\Debug\DragAndDropControls.pdb
+C:\Users\muhammad.ziada\Downloads\Drag_and_drop_Controls_src\Drag and drop Controls\bin\Debug\DragAndDropControls.exe.config
